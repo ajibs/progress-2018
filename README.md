@@ -5,7 +5,7 @@ I intend to get a job as a developer, build more complex and useful projects, hi
 
 ## Progress
 
-Stuff Completed: 8  
+Activities Completed: 8  
 Total Points Earned: 330
 
 S/N | Date     | Activity       | Points | Links                                                                                  
