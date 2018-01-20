@@ -1,9 +1,9 @@
 # 2018
-My two main goals are to become a better programmer and live a healthier life. 
-I'm practicing **Deep Work** which encourages me to **be present** and **relax more**. 
+My two main goals are to **become a better programmer** and **live a healthier life**. 
+I'm practicing **Deep Work** which encourages me to **be present** and **relax**. 
 I intend to get a job as a developer, build more complex and useful projects, hit the gym regularly and be happy.
 
-##Progress
+## Progress
 
 Stuff Completed: 8  
 Total Points Earned: 330
@@ -22,3 +22,6 @@ S/N | Date     | Activity       | Points | Links
 
 
 I'm yoloing my own way.
+
+
+Inspired by [P1xt](https://github.com/P1xt/speedstudy) and [Kornil](https://github.com/Kornil/speedstudy/blob/master/progress-2018/Kornil-2018/Kornil-progress-2018.md)
