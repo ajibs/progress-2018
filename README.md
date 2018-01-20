@@ -7,7 +7,7 @@ I intend to get a job as a developer, build more complex and useful projects, hi
 
 WIP: Get a Developer Job | Project: [Parabol Action](https://github.com/ajibs/action) | Course: [ES6 for Everyone](https://es6.io/)
 
-Total Points Earned: 330
+Total Points Earned: 380
 
 S/N | Date     | Activity       | Points | Links                                                                                  
 | - | -------- | -------------- | ------ | -------------------------------------------------------------------------------------- |
