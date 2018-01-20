@@ -4,6 +4,9 @@ I'm practicing **Deep Work** which encourages me to **be present** and **relax**
 I intend to get a job as a developer, build more complex and useful projects, hit the gym regularly and be happy.
 
 ## Progress
+WIP: Get a Developer Job
+Current Project: [Parabol Action](https://github.com/ajibs/action)
+Current Course: [ES6 for Everyone](https://es6.io/)
 
 Activities Completed: 8  
 Total Points Earned: 330
@@ -19,6 +22,21 @@ S/N | Date     | Activity       | Points | Links
 | 7 | 21/01/18 | Gym (twice)    | 20     | Prime Fitness                                                                          |
 | 8 | 21/01/18 | Run (thrice)   | 30     | #                                                                                      |
 | - | -------- | -------------- | -------|----------------------------------------------------------------------------------------|
+
+
+## Future
+* [ ] __Zen__
+* [ ] Project: Build a mini payments processor
+* [ ] Project: Build a PWA for airtime recharge
+* [ ] Automated Tests
+* [ ] Course: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* [ ] Book: [Introduction to Algorithms - Cormen](https://www.amazon.co.uk/Introduction-Algorithms-T-Cormen/dp/0262533057)
+* [ ] Book: [Algorithms Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [ ] [HackerRank](https://www.hackerrank.com/)
+* [ ] [Topcoder](https://www.topcoder.com/)
+* [ ] Course: [Deep JavaScript Foundations by Kyle Simpson](https://frontendmasters.com/courses/javascript-foundations/)
+* [ ] Book: [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
+* [ ] Book: [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
 I'm yoloing my own way.
