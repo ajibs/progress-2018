@@ -4,11 +4,9 @@ I'm practicing **Deep Work** which encourages me to **be present** and **relax**
 I intend to get a job as a developer, build more complex and useful projects, hit the gym regularly and be happy.
 
 ## Progress
-WIP: Get a Developer Job
-Current Project: [Parabol Action](https://github.com/ajibs/action)
-Current Course: [ES6 for Everyone](https://es6.io/)
 
-Activities Completed: 8  
+WIP: Get a Developer Job | Project: [Parabol Action](https://github.com/ajibs/action) | Course: [ES6 for Everyone](https://es6.io/)
+
 Total Points Earned: 330
 
 S/N | Date     | Activity       | Points | Links                                                                                  
@@ -20,8 +18,9 @@ S/N | Date     | Activity       | Points | Links
 | 5 | 14/01/18 | Slack Bot      | 40     | [reporter-bot tutorial](https://github.com/ajibs/reporterbot)                          |
 | 6 | 21/01/18 | Setup Ubuntu   | 100    | #                                                                                      |
 | 7 | 21/01/18 | Gym (twice)    | 20     | Prime Fitness                                                                          |
-| 8 | 21/01/18 | Run (thrice)   | 30     | #                                                                                      |
-| - | -------- | -------------- | -------|----------------------------------------------------------------------------------------|
+| 8 | 21/01/18 | Run (thrice)   | 30     | #    
+| 9 | 21/01/18 | Open Source PR | 50     | [Speedstudy](https://github.com/P1xt/speedstudy/pull/18#issuecomment-359173883) 
+| - | -------- | -------------- | -------| 
 
 
 ## Future
